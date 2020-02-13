@@ -12,7 +12,7 @@ public class HomePage extends BasePage {
     String baseURL = "facebook.com";
     By signInButtonBy = By.className("");
 
-    String conflict = "Conflict here";
+    String sdsasadsa = "Csdasdre";
 
 
     //********************* Page Methods **********************//
