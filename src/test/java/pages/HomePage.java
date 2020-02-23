@@ -12,6 +12,7 @@ public class HomePage extends BasePage {
     String baseURL = "facebook.com";
     By signInButtonBy = By.className("");
 
+    String conflict = "sample";
 
     //********************* Page Methods **********************//
     //Go to Site
