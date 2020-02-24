@@ -14,7 +14,7 @@ public class HomePage extends BasePage {
 
 
     String conflict = "sample";
-    String conflictkadito = "dsadas";
+    String conflict2 = "sammmmple";
 
 
     //********************* Page Methods **********************//
