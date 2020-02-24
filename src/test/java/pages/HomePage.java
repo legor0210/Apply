@@ -13,6 +13,7 @@ public class HomePage extends BasePage {
     By signInButtonBy = By.className("");
 
     String conflict = "sample";
+    String conflict2 = "sammmmple";
 
     //********************* Page Methods **********************//
     //Go to Site
