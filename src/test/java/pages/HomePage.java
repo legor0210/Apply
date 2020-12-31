@@ -9,7 +9,7 @@ public class HomePage extends BasePage {
         super(driver);
     }
 
-    String baseURL = "facebook.com";
+    String baseURL = "https://facebook.com";
     By signInButtonBy = By.className("");
 
     String conflict = "sample";
